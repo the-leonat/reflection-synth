@@ -1,0 +1,5 @@
+Manifest-Version: 1.0 
+Created-By: Leonard Puhl 
+Class-Path: /Applications/Processing 3.app/Contents/Java/core/library/
+ core.jar
+
